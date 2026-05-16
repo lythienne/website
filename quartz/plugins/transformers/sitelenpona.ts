@@ -11,9 +11,11 @@ export const SitelenPona: QuartzTransformerPlugin = () => {
         () => {
           return (tree: Root) => {
             findAndReplace(tree, [
-              /#sp.+#/s,
-              function (_, $1) {
-                return Object.hasOwn(nameToEmoji, $1) ? nameToEmoji[$1] : false
+              /<@sp([\s\S]+)>/g,
+              function ($0, $1) {
+                return [{type: "html", value: "<strong>"},
+                        {type: "text", value: $1},
+                        {type: "html", value: "</strong>"}]
               }              
             ])
           }

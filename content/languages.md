@@ -11,4 +11,12 @@ so its really ok.
 
 Does this font support unicode chars? <strong>󱥬󱥔󱤧󱥔󱥩󱤴</strong>
 
-Emoji test: :skull: :thumbsup: :not_a_github_emoji:
+Emoji test: :skull: :thumbsup: :not_a_github_emoji:  
+SP test: <@sp lipu la sitelen toki ni li ante li kama sitelen pona tan ilo mi>
+
+SP block test: 
+<@sp
+    lipu la sitelen toki ni li ante li kama sitelen pona tan ilo mi  
+    ni li nimi linja tu  
+    mi ken jo e nimi linja mute lon insa pi poki ni
+>
