@@ -20,3 +20,7 @@ SP block test:
     ni li nimi linja tu  
     mi ken jo e nimi linja mute lon insa pi poki ni
 >
+
+**mi toki e ni la mi wile lukin e ni: toki ni li kepeken sitelen pona anu kepeken sitelen [la,,sina,,,,]  
+ni li linja toki nanpa tu.  
+ni li linja toki nanpa tu wan.** 

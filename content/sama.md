@@ -1,3 +1,7 @@
+---
+title: sama (by jan mokupona)  
+---
+
 **suli la mi toki e ijo tan toki [INLI].** LOL
 
 **tenpo pini la mama mi li lon e jan tu. tan ni la wan li mi. ante li jan [SUWAN]. 
