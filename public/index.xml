@@ -6,11 +6,17 @@
       <description>Last 10 notes on poki mu a&amp;‽</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>improvement</title>
+    <link>https://web.stanford.edu/~hchen0/improvement</link>
+    <guid>https://web.stanford.edu/~hchen0/improvement</guid>
+    <description><![CDATA[ steps to improve this website: write simple compiler decide on theme - ideas (below) host on rpi (maybe i should just keep hosting on stanford) figure out how to serve write theme statically done? theme ideas: gumball machine, random button, or select one of them time shaded red fish in grayscale sk... ]]></description>
+    <pubDate>Mon, 27 Jul 2026 23:28:37 GMT</pubDate>
+  </item><item>
     <title>learning</title>
     <link>https://web.stanford.edu/~hchen0/learning</link>
     <guid>https://web.stanford.edu/~hchen0/learning</guid>
     <description><![CDATA[ look into research on how language becomes specialized to facilitate learning and communication in sub groups “sub languages”? this comes in the form of new terminology of course and canonicalized phrases, but less commonly different structures entirely why is that, what makes a “language” so resist... ]]></description>
-    <pubDate>Mon, 27 Jul 2026 09:05:18 GMT</pubDate>
+    <pubDate>Mon, 27 Jul 2026 09:13:28 GMT</pubDate>
   </item><item>
     <title>26-6-30-soil-mtg</title>
     <link>https://web.stanford.edu/~hchen0/26-6-30-soil-mtg</link>
@@ -58,12 +64,6 @@
     <link>https://web.stanford.edu/~hchen0/colonize</link>
     <guid>https://web.stanford.edu/~hchen0/colonize</guid>
     <description><![CDATA[ car said something that made me kind of autistically contemplate yesterday. ]]></description>
-    <pubDate>Fri, 15 May 2026 23:12:46 GMT</pubDate>
-  </item><item>
-    <title>game</title>
-    <link>https://web.stanford.edu/~hchen0/game</link>
-    <guid>https://web.stanford.edu/~hchen0/game</guid>
-    <description><![CDATA[ ive been into ttrpgs ever since my dad got me and my cousin to play dnd one boring week over at my grandmas. this was probably 2014. ]]></description>
     <pubDate>Fri, 15 May 2026 23:12:46 GMT</pubDate>
   </item>
     </channel>
